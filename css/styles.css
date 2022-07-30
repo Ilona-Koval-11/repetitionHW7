@@ -808,10 +808,6 @@ margin-right: 0;
     margin-bottom: 0;
 }
 
-.overlay-section__project:nth-child(n3){
-margin-right: 0;
-    } 
-
 .overlay-section__shadow {
             display: block;
             box-shadow: none;
